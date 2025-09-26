@@ -1,9 +1,9 @@
-* 🏨 Hotel Booking Assistant
+# Hotel Booking Assistant Chatbot
 
 A beginner-friendly rule-based chatbot for hotel booking, wrapped in Python and deployed with Streamlit.
 The bot helps users check room availability, book rooms, and interact in a conversational way.
 
--  ✨ Features
+-   Features
 
 💬 Chat Interface built with Streamlit.
 
@@ -31,7 +31,7 @@ Streamlit (UI + deployment)
 
 VS Code (development environment)
 
-🚀 Getting Started
+**🚀 Getting Started**
 1️⃣ Clone the Repository
 git clone https://github.com/your-username/hotel_chatbot.git
 cd hotel_chatbot
