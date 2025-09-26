@@ -1,4 +1,4 @@
-*  🏨 Hotel Booking Assistant
+* 🏨 Hotel Booking Assistant
 
 A beginner-friendly rule-based chatbot for hotel booking, wrapped in Python and deployed with Streamlit.
 The bot helps users check room availability, book rooms, and interact in a conversational way.
